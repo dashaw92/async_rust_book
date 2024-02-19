@@ -1,0 +1,3 @@
+[submodule "Asynchronous-Programming-in-Rust"]
+	path = Asynchronous-Programming-in-Rust
+	url = git@github.com:PacktPublishing/Asynchronous-Programming-in-Rust.git
